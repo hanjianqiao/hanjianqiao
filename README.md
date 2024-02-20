@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hanjianqiao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hanjianqiao(Lanchitour)
+- 👀 I’m interested in Computer Graphics, Compilers and Operating Systems.
+- 🌱 I’m currently learning Qt and Vulkan.
+- 💞️ I’m looking to collaborate on something interesting and I'm coding for joy.
+- 📫 How to reach me, email to hanjianqiao@gmail.com
 
 <!---
 hanjianqiao/hanjianqiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
